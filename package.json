@@ -1,0 +1,14 @@
+{
+  "name": "webpackdevsertest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fls",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
